@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  A real-time raw IP/TCP packet sniffer and analyzer built in Python.
+  name: py-packet-sniffer version: 1.0 type: Repository author: VarshuAi description: >   A real-time raw IP/TCP packet sniffer and analyzer built in Python. primary_tech: Python
 primary_tech: Python
 ```
 
